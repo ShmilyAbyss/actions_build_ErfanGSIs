@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V9.6.2.0.LACCNFD/miui_MIPAD2_V9.6.2.0.LACCNFD_a0dd7469a1_5.1.zip
   ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
